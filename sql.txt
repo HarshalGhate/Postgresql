@@ -1,0 +1,2 @@
+//restart Primary key
+TRUNCATE TABLE job_scheduling.job_master RESTART IDENTITY;
